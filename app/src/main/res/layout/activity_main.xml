@@ -14,19 +14,19 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#FF0000"
+            android:textColor="#9ACD32"
             android:text="안녕하세요."/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#F0E68C"
+            android:textSize="s30p"
             android:text="반갑습니다."/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#9ACD32"
+            android:textSize="12sp"
             android:text="현재입니다."/>
 
 
